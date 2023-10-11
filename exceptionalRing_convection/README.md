@@ -1,4 +1,4 @@
-# sismo-topo
+# Exceptional modes in buoyancy instability
 
 This python script (jupyter notebook) uses the Dedalus package (v2) along with its companion Eigentools to solve the spectrum of a particular model of convectively unstable medium.
 
